@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/krupal015/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/krupal015/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
 | ------- |
@@ -20,12 +21,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/krupal015/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krupal015/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krupal015/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
