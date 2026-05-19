@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/krupal015/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0136-single-number) |
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krupal015/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
