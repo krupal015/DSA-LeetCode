@@ -3,8 +3,8 @@ class Solution {
         int n = nums.length;
         int[] ans = new int[n];
 
-        int pos = 0; // even indices
-        int neg = 1; // odd indices
+        int pos = 0; 
+        int neg = 1; 
 
         for(int num : nums){
             if(num > 0){
