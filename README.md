@@ -14,6 +14,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/krupal015/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krupal015/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/krupal015/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/krupal015/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/krupal015/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/krupal015/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -84,6 +85,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krupal015/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -119,4 +121,12 @@
 | [0020-valid-parentheses](https://github.com/krupal015/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/krupal015/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/krupal015/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krupal015/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/krupal015/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
