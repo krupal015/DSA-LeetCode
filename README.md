@@ -37,6 +37,7 @@
 | [0075-sort-colors](https://github.com/krupal015/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krupal015/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/krupal015/DSA-LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krupal015/DSA-LeetCode/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/krupal015/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/krupal015/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/krupal015/DSA-LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -130,4 +132,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krupal015/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/krupal015/DSA-LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/krupal015/DSA-LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
