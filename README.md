@@ -67,6 +67,7 @@
 | [0001-two-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krupal015/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/krupal015/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/krupal015/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -74,6 +75,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/krupal015/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/krupal015/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/krupal015/DSA-LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/krupal015/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/krupal015/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
@@ -96,6 +98,7 @@
 | [0075-sort-colors](https://github.com/krupal015/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/krupal015/DSA-LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/krupal015/DSA-LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
