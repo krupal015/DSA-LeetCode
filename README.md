@@ -45,6 +45,7 @@
 | [0485-max-consecutive-ones](https://github.com/krupal015/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/krupal015/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/krupal015/DSA-LeetCode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/krupal015/DSA-LeetCode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krupal015/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krupal015/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krupal015/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/krupal015/DSA-LeetCode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/krupal015/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/krupal015/DSA-LeetCode/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/krupal015/DSA-LeetCode/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/krupal015/DSA-LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
