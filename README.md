@@ -37,6 +37,7 @@
 | [0035-search-insert-position](https://github.com/krupal015/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/krupal015/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/krupal015/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/krupal015/DSA-LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krupal015/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/krupal015/DSA-LeetCode/tree/master/0164-maximum-gap) |
@@ -90,6 +91,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/krupal015/DSA-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/krupal015/DSA-LeetCode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/krupal015/DSA-LeetCode/tree/master/0561-array-partition) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/krupal015/DSA-LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
