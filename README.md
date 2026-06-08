@@ -94,6 +94,7 @@
 | ------- |
 | [0078-subsets](https://github.com/krupal015/DSA-LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/krupal015/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/krupal015/DSA-LeetCode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
@@ -134,6 +135,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krupal015/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/krupal015/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/krupal015/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/krupal015/DSA-LeetCode/tree/master/0704-binary-search) |
 ## Stack
 |  |
@@ -170,6 +172,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/krupal015/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/krupal015/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -179,6 +182,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/krupal015/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/krupal015/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
