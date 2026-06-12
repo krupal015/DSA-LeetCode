@@ -173,16 +173,19 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/krupal015/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/krupal015/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/krupal015/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/krupal015/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -194,4 +197,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/krupal015/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
