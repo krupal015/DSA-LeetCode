@@ -177,6 +177,7 @@
 | [0099-recover-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/krupal015/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/krupal015/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
@@ -184,6 +185,7 @@
 | [0098-validate-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -191,11 +193,13 @@
 | [0099-recover-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/krupal015/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/krupal015/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/krupal015/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0112-path-sum) |
 ## Matrix
 |  |
 | ------- |
