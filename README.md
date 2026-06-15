@@ -38,6 +38,7 @@
 | [0035-search-insert-position](https://github.com/krupal015/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0047-permutations-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/krupal015/DSA-LeetCode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/krupal015/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/krupal015/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/krupal015/DSA-LeetCode/tree/master/0078-subsets) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/krupal015/DSA-LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krupal015/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -205,6 +207,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/krupal015/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search Tree
 |  |
