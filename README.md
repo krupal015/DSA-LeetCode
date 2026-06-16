@@ -45,6 +45,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krupal015/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/krupal015/DSA-LeetCode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/krupal015/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krupal015/DSA-LeetCode/tree/master/0283-move-zeroes) |
@@ -62,6 +63,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krupal015/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/krupal015/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/krupal015/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/krupal015/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/krupal015/DSA-LeetCode/tree/master/0283-move-zeroes) |
@@ -141,6 +143,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krupal015/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/krupal015/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/krupal015/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/krupal015/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/krupal015/DSA-LeetCode/tree/master/0704-binary-search) |
 ## Stack
