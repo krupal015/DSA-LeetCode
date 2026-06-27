@@ -131,6 +131,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/krupal015/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/krupal015/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krupal015/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -184,9 +185,11 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/krupal015/DSA-LeetCode/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/krupal015/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
@@ -206,6 +209,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/krupal015/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
@@ -228,6 +232,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/krupal015/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/krupal015/DSA-LeetCode/tree/master/0099-recover-binary-search-tree) |
