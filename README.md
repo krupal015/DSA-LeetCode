@@ -263,4 +263,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/krupal015/DSA-LeetCode/tree/master/0056-merge-intervals) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
