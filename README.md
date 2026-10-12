@@ -58,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/krupal015/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krupal015/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krupal015/DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/krupal015/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/krupal015/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -94,6 +95,7 @@
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krupal015/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krupal015/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/krupal015/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -122,6 +124,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/krupal015/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/krupal015/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -132,12 +135,14 @@
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krupal015/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krupal015/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/krupal015/DSA-LeetCode/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +184,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krupal015/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -187,6 +193,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/krupal015/DSA-LeetCode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -267,4 +274,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
