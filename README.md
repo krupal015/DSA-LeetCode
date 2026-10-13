@@ -75,6 +75,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/krupal015/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/krupal015/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krupal015/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/krupal015/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -103,6 +104,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/krupal015/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/krupal015/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/krupal015/DSA-LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/krupal015/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/krupal015/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/krupal015/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
