@@ -1,1 +1,1 @@
-<h2>squares-of-a-sorted-array Notes</h2><hr>[ Time taken: 1m 50s ]
+<h2>squares-of-a-sorted-array Notes</h2><hr>[ Time taken: 20m 24s ]
