@@ -66,6 +66,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/krupal015/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/krupal015/DSA-LeetCode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/krupal015/DSA-LeetCode/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krupal015/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krupal015/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krupal015/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -84,6 +85,7 @@
 | [0189-rotate-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/krupal015/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/krupal015/DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krupal015/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -146,6 +148,7 @@
 | [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/krupal015/DSA-LeetCode/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
