@@ -68,6 +68,7 @@
 | [0561-array-partition](https://github.com/krupal015/DSA-LeetCode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/krupal015/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/krupal015/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krupal015/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krupal015/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krupal015/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krupal015/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/krupal015/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/krupal015/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/krupal015/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/krupal015/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/krupal015/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/krupal015/DSA-LeetCode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/krupal015/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
