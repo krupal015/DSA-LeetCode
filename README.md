@@ -39,6 +39,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krupal015/DSA-LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/krupal015/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/krupal015/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krupal015/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/krupal015/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/krupal015/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krupal015/DSA-LeetCode/tree/master/0217-contains-duplicate) |
@@ -278,6 +280,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/krupal015/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/krupal015/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search Tree
