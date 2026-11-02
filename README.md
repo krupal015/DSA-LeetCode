@@ -63,6 +63,7 @@
 | [0238-product-of-array-except-self](https://github.com/krupal015/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krupal015/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/krupal015/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/krupal015/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -88,6 +89,7 @@
 | [0189-rotate-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/krupal015/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/krupal015/DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krupal015/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -107,6 +109,7 @@
 | [0217-contains-duplicate](https://github.com/krupal015/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krupal015/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/krupal015/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -152,6 +155,7 @@
 | [0217-contains-duplicate](https://github.com/krupal015/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krupal015/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/krupal015/DSA-LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -195,6 +199,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krupal015/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/krupal015/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/krupal015/DSA-LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/krupal015/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
