@@ -10,6 +10,7 @@
 | [0062-unique-paths](https://github.com/krupal015/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/krupal015/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/krupal015/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 ## Linked List
@@ -89,6 +90,7 @@
 | [0125-valid-palindrome](https://github.com/krupal015/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krupal015/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/krupal015/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/krupal015/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -108,6 +110,7 @@
 | [0036-valid-sudoku](https://github.com/krupal015/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/krupal015/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/krupal015/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krupal015/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -321,4 +324,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krupal015/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
