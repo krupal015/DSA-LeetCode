@@ -51,6 +51,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/krupal015/DSA-LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krupal015/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/krupal015/DSA-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -178,6 +179,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/krupal015/DSA-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/krupal015/DSA-LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krupal015/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/krupal015/DSA-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
