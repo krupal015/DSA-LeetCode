@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/krupal015/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0400-nth-digit](https://github.com/krupal015/DSA-LeetCode/tree/master/0400-nth-digit) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 ## Linked List
 |  |
@@ -210,6 +211,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/krupal015/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/krupal015/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0400-nth-digit](https://github.com/krupal015/DSA-LeetCode/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/krupal015/DSA-LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/krupal015/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
