@@ -115,6 +115,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/krupal015/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/krupal015/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/krupal015/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/krupal015/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krupal015/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/krupal015/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -128,6 +129,7 @@
 | [0020-valid-parentheses](https://github.com/krupal015/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/krupal015/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/krupal015/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/krupal015/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/krupal015/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/krupal015/DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
