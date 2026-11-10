@@ -79,6 +79,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krupal015/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krupal015/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krupal015/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3693-climbing-stairs-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krupal015/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/krupal015/DSA-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [3693-climbing-stairs-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Simulation
 |  |
 | ------- |
