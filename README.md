@@ -14,6 +14,7 @@
 | [0231-power-of-two](https://github.com/krupal015/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0400-nth-digit](https://github.com/krupal015/DSA-LeetCode/tree/master/0400-nth-digit) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/krupal015/DSA-LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0011-container-with-most-water](https://github.com/krupal015/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krupal015/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/krupal015/DSA-LeetCode/tree/master/0561-array-partition) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/krupal015/DSA-LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
 | ------- |
