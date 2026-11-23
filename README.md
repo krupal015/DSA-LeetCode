@@ -14,6 +14,7 @@
 | [0231-power-of-two](https://github.com/krupal015/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0400-nth-digit](https://github.com/krupal015/DSA-LeetCode/tree/master/0400-nth-digit) |
 | [0539-minimum-time-difference](https://github.com/krupal015/DSA-LeetCode/tree/master/0539-minimum-time-difference) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krupal015/DSA-LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/krupal015/DSA-LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
@@ -78,6 +79,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/krupal015/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/krupal015/DSA-LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krupal015/DSA-LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/krupal015/DSA-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krupal015/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/krupal015/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -205,6 +207,7 @@
 | [0238-product-of-array-except-self](https://github.com/krupal015/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/krupal015/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/krupal015/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krupal015/DSA-LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -344,4 +347,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/krupal015/DSA-LeetCode/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/krupal015/DSA-LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/krupal015/DSA-LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
